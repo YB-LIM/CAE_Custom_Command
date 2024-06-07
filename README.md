@@ -9,10 +9,10 @@ Run custom script in Abaqus/CAE with single line of command
 ![image](https://github.com/YB-LIM/CAE_Custom_Command/assets/105615106/9a947397-3847-4b99-bd0a-c24e8a7f9365)
 
 # Command description
-delete_xy(): Delete all XY-data in Abaqus/viewer <br>
-cantilever(): Generate a 3D solid cantilever model. No load is applied <br>
-![image](https://github.com/YB-LIM/CAE_Custom_Command/assets/105615106/2bcd8eaf-d83b-4563-9dc6-85e27e6ecd03) <br>
-block(): Generate a 3D block model No BC and load applied <br>
-![image](https://github.com/YB-LIM/CAE_Custom_Command/assets/105615106/2f801a71-a83f-4d54-9539-97fcc279c8fd) <br>
+**delete_xy()**: Delete all XY-data in Abaqus/viewer <br>
+**cantilever()**: Generate a 3D solid cantilever model. No load is applied <br>
+![image](https://github.com/YB-LIM/CAE_Custom_Command/assets/105615106/ee599849-d661-4309-ba3e-c14585fa15f5) <br>
+**block()**: Generate a 3D block model No BC and load applied <br>
+![image](https://github.com/YB-LIM/CAE_Custom_Command/assets/105615106/00cfa119-88ba-44c2-b297-9073d79f75f2) <br>
 
 
